@@ -1,0 +1,10 @@
+{
+  "name": "TesseractBridge",
+  "version": "1.0.0",
+  "api": 2,
+  "description": "The bridge between Tesseract-OCR and SimpleFramework",
+  "author": "PeratX",
+  "main": "PeratX\\TesseractBridge\\TesseractBridge",
+  "order": 0,
+  "website": "https://github.com/PeratX/TesseractBridge"
+}
