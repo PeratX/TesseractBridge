@@ -31,6 +31,14 @@ class TesseractBridge extends Module{
 	public function unload(){
 		@unlink(self::$outputFile . ".txt");
 	}
+
+	/**
+	 * Read specified image. -l options is recommended.
+	 * 
+	 * @param string $file
+	 * @param string $options
+	 * @return string
+	 */
 	public static function readImage(string $file, string $options = "") : string{
 		@unlink(self::$outputFile . ".txt");
 		exec(self::$tesseractExecutable . " " . $file . " " . self::$outputFile . ($options == "") ? : " " . $options);

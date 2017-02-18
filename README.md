@@ -18,7 +18,7 @@ __The bridge between [Tesseract-OCR](https://github.com/PeratX/TesseractBridge) 
 
 Introduction
 -------------
-This module enable other modules access Tesseract-OCR easily.
+This module enables other modules access Tesseract-OCR easily.
 
 Get TesseractBridge
 -------------
