@@ -1,7 +1,7 @@
 TesseractBridge
 ===================
 
-__The bridge between [Tesseract-OCR](https://github.com/PeratX/TesseractBridge) and [SimpleFramework](https://github.com/PeratX/SimpleFramework)__
+__The bridge between [Tesseract-OCR](https://github.com/tesseract-ocr/tesseract) and [SimpleFramework](https://github.com/PeratX/SimpleFramework)__
 
 	This program is free software: you can redistribute it and/or modify
 	it under the terms of the GNU General Public License as published by
