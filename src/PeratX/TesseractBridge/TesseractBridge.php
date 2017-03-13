@@ -13,8 +13,8 @@
 
 namespace PeratX\TesseractBridge;
 
-use PeratX\SimpleFramework\Module\Module;
-use PeratX\SimpleFramework\Util\Config;
+use iTXTech\SimpleFramework\Module\Module;
+use iTXTech\SimpleFramework\Util\Config;
 
 class TesseractBridge extends Module{
 
